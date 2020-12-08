@@ -1,4 +1,4 @@
-# [View Live] (https://ginnerzapata.github.io/react-markdown-previewer/)
+# [View Live](https://ginnerzapata.github.io/react-markdown-previewer/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
