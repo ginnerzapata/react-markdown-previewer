@@ -4,7 +4,7 @@ import './App.css';
 import ReactMarkdown from 'react-markdown';
 
 export default function App() {
-  const [markdown, setMarkdown] = useState('# sup')
+  const [markdown, setMarkdown] = useState('')
   return (
     <div className="app">
       <textarea onChange={e => setMarkdown(e.target.value)} value={markdown}/>
